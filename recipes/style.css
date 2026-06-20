@@ -1,0 +1,50 @@
+html {
+    background-color: rgb(144, 99, 31);
+}
+
+h1 {
+    font-size: 50px;
+    color:beige;
+    position: relative;
+    left: 42px;
+}
+
+section {
+    margin-block: 50px;
+}
+
+.lasagna {
+    text-align: left;
+    list-style: none;
+}
+
+.lasagna2 {
+    font-size: 30px;
+    color: beige;
+}
+
+.burritos {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
+
+.burritos2 {
+    font-size: 30px;
+    color: beige;
+    position: relative;
+    right: 227px;
+}
+
+.mac {
+    text-align: right;
+    list-style-position: inside;
+    list-style: none;
+}
+
+.mac2 {
+    font-size: 30px;
+    color:beige;
+    position: relative;
+    right: 392px;
+}
