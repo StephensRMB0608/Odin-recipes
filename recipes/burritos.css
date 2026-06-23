@@ -1,3 +1,75 @@
 html {
-    background-color: azure;
+    background-color: rgb(208, 133, 178);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color:rgb(162, 65, 171);
+    margin-block: 50px;
+}
+
+.burritos{
+    text-align: left;
+}
+
+header {
+    text-align: right;
+    margin-right: 15px;
+    position: relative;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color:rgb(162, 65, 171);
+    margin-block: 35px;
+}
+
+.description {
+    position: relative;
+    bottom: 557px;
+    margin-right: 800px;
+}
+
+.ingredients{
+    position: relative;
+    bottom: 510px;
+}
+
+.steps {
+    position: relative;
+    bottom: 450px;
+}
+
+.conclusion {
+    position: relative;
+    bottom: 400px;
+}
+
+.conclusion2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.homepage {
+    position: relative;
+    bottom: 350px;
+}
+
+a {
+    font-size: 35px;
+    color:rgb(162, 65, 171);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color:rgb(117, 64, 212);
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:rgb(117, 64, 212);
 }
